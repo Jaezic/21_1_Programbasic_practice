@@ -9,36 +9,16 @@
 
 ---
 
-### 20210315 학습내역(아래)
-#### 21_1_exercise1.html
-- META Element 이용
-- HEAD 태그 속 TITLE 태그를 이용해 웹 제목 생성
-- ALIGN Attribute를 이용해 정렬 방법
+### 20210322 학습내역(아래)
+#### programing_basic_exercise_1.c
+- printf 함수를 이용해 문자 출력하기
+- scanf 함수르 이용해 input값을 변수에 할당하기
+- 변수 사칙 연산
+- float형 서식 지정자 이용해보기
 
-#### 21_1_exercise2.html
-- Heading Tag Level을 이용해 텍스트 크기 조절
-- Paragraph Tag(p), Comments Tag(!-- --), LineBreak Tag(br), Horizontal Rule Tag(hr), List Tag(ul,li,ol,dl,dt,dd) 이용
-- List Tag를 이용해 Nested List 꾸리기
+#### programing_basic_exercise_2.c
+- #define _CRT_SECURE_NO_WARNINGS로 보안 경고 스킵
 
-#### 21_1_exercise3.html
-- body 태그에 color Attributes를 이용해 배경색 변경
-
-#### 21_1_exercise4.html
-- Table(table), Rows(tr), Data in a row(td), Header(th), Caption(caption)
-- Border Attribute를 이용해 테두리 크기 조정
-- Cell Padding & Spacing Attributes를 이용해 표 안 여백, 셀 사이의 거리 조정
-- Cell Merge Attriubtes의 rowspan, colspan을 이용해 표 병합
-
-### 20210316 학습내역(아래)
-#### 21_1_exercise5.html
-- Hyperlink Tag의 Link to Another Document에서 Absolute link로 이동하기
-- Hyperlink Tag의 Target Attribute의 _blank로 새 창으로 이동하기
-- Anchor Tag의 name Attribute 그리고 href Attribute을 통해 Specific Section으로 이동하기
-
-#### 21_1_exercise3.1.html
-- blockquote tag를 이용해 인용구 만들기
-- image tag(tag)에서 Relative link를 사용해 이미지 불러오기
-
-### 20210318 학습내역(아래)
-#### 21_1_exercise3.2.html
-- dd
+#### programing_basic_exercise_3.c
+- if문으로 조건에 따라 분기점 만들기
+- &&, || <, > 와 같은 논리 연산
